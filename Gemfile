@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 
+# Mina Deploy
+gem 'mina'
 # Puma
 gem 'puma'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
