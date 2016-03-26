@@ -3,6 +3,8 @@ source 'https://rubygems.org'
 
 # Mina Deploy
 gem 'mina'
+# TZinfo
+# gem 'tzinfo-data', platforms: [:mingw, :mswin]
 # Puma
 gem 'puma'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
